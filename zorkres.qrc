@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/! Zork:/images">
+        <file>maxresdefault.jpg</file>
+        <file>DungeonMusic.mp3</file>
+        <file>b.jpg</file>
+        <file>c.jpg</file>
+        <file>e.jpg</file>
+        <file>f.jpg</file>
+        <file>h.jpg</file>
+        <file>a.jpg</file>
+        <file>s.jpg</file>
+        <file>d.jpg</file>
+        <file>i.jpg</file>
+        <file>g.jpg</file>
+    </qresource>
+</RCC>
